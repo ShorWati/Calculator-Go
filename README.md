@@ -1,2 +1,2 @@
-# Calculator-on-Go
-My first app on Go
+# Calculator
+My first app 
