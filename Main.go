@@ -1,8 +1,10 @@
 package main
 
-import "fmt"
+import ("fmt","app")
 
 func main(){
-   println("test") 
+   a := app.New()
+   w := app.NewWindow()
+   
 }
    
